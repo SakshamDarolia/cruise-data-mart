@@ -1,0 +1,6 @@
+﻿Cruise_Number,Start_Datetime,End_Datetime,Ship_Name,Launch_Datetime,Tour_Datetime,Tour_Name,Tour_Description,Duration,Price
+1,08:00.0,00:00.0,Jubilee,00:00.0,00:00.0,The Caves,Ancient Caves,0.8,100.5
+2,08:00.0,00:00.0,Firenze,00:00.0,00:00.0,The Hills,Ancient Hills,0.9,110.5
+3,08:00.0,00:00.0,Venezia,00:00.0,00:00.0,The Fort,Ancient Fort,0.7,120.5
+4,08:00.0,00:00.0,Celebration,00:00.0,00:00.0,The Temple,Ancient Temples,0.6,130.5
+5,08:00.0,00:00.0,Luminosa,00:00.0,00:00.0,The Monument,Ancient Monuments,0.5,140.5
